@@ -1,0 +1,3 @@
+1) Store_BackEnd: this error in show on emlement login function:
+
+1- "message" "SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'tokenable_id' cannot be null (Connection: mysql, SQL: insert into `personal_access_tokens` (`name`, `token`, `abilities`, `expires_at`, `tokenable_id`, `tokenable_typ"
